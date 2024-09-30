@@ -6,17 +6,9 @@ Your task is to create the absolute worst, most inconvenient login page EVER. Yo
 
 In order to start, you first need to Fork this repository. To do that, click the "Fork" button at the top right of the repository page. You can use the command `git clone <forked-repo-url>` to clone your fork and work with it in your IDE.
 
-## Available Scripts
+## How to test
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The first step to testing is locating your project directory. There is a terminal in most IDEs that you can use to run commands directly in that directory, or you can locate your project in a separate terminal. In the project directory, you can run `npm start` to run the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
 Built into this project are also the commands `npm run eject`, `npm run build`, and `npm test`, but all you really need is `npm start` in order to test your login page with live updates.
 
