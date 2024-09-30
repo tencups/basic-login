@@ -8,7 +8,7 @@ In order to start, you first need to Fork this repository. To do that, click the
 
 ## How to test
 
-The first step to testing is locating your project directory. There is a terminal in most IDEs that you can use to run commands directly in that directory, or you can locate your project in a separate terminal. In the project directory, you can run `npm start` to run the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
+The first step to testing is locating your project directory. There is a terminal in most IDEs that you can use to run commands directly in whatever directory you are working on, or you can locate your project in a separate terminal. In the project directory, you can run `npm start` to run the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
 Built into this project are also the commands `npm run eject`, `npm run build`, and `npm test`, but all you really need is `npm start` in order to test your login page with live updates.
 
