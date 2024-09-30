@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# Inconvenient Login Competition
+
+Your task is to create the absolute worst, most inconvenient login page EVER. You have until the end of the GBM to modify this basic login and submit a Pages link to your inconvenient login. Scoring will be based on ANGER, HUMOR, and BONUS for anything extra such as not being buggy (unless intended) or incorporating [this]([(https://avatars.githubusercontent.com/u/77300333?v=4)]) image into your design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
