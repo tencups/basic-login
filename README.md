@@ -4,6 +4,8 @@ Your task is to create the absolute worst, most inconvenient login page EVER. Yo
 
 # How to get started
 
+Install git: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
 Install node: [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download/package-manager)
 
 In order to start, you first need to Fork this repository. To do that, click the "Fork" button at the top right of the repository page. You can use the command `git clone <forked-repo-url>` to clone your fork and work with it in your IDE.
