@@ -13,6 +13,11 @@ const App: React.FC = () => {
     }
   };
 
+  const handleClick = (event: any) => {
+    event.target.style.opacity = '0.0';
+  }
+
+
   return (
     <div className="App">
       {isLoggedIn ? (
@@ -40,7 +45,39 @@ const App: React.FC = () => {
               required
             />
           </div>
-          <button type="submit">Enter</button>
+
+
+          <div className="row">
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+          </div>
+          <div className="row">
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+          </div>
+          <div className="row">
+            <div className = "cont">
+              <div className = "cover"></div>
+            <button onClick={handleClick} className="col"></button>
+            <button className="secretButton" type="submit">Enter</button>
+            </div>
+            
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+          </div>
+          <div className="row">
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+            <button onClick={handleClick} className="col"></button>
+          </div>
+          
+          
         </form>
       )}
     </div>
